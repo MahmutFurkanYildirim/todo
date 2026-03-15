@@ -1,6 +1,15 @@
 # LearningCompose
 
+[![Platform](https://img.shields.io/badge/platform-Android-3DDC84?logo=android&logoColor=white)](https://developer.android.com/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-2.0-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![UI](https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 Modern bir Jetpack Compose todo uygulamasi. Uygulama; gorev yonetimi, tekrar kurallari, odak modu, basit istatistikler, Firebase tabanli kimlik dogrulama ve senkronizasyon, ayrica widget destegini tek bir Android projesinde birlestirir.
+
+## Repository Description
+
+Cyberpunk temali, modern bir Jetpack Compose todo uygulamasi: gorev yonetimi, odak modu, tekrar kurallari, istatistikler, Room ve Firebase entegrasyonu.
 
 ## Ekran Goruntuleri
 
@@ -82,6 +91,26 @@ Windows:
 .\gradlew.bat :app:compileDebugKotlin
 ```
 
+## Release Onerisi
+
+Ilk public surum icin onerilen etiket:
+
+```text
+v1.0.0
+```
+
+Onerilen release basligi:
+
+```text
+LearningCompose v1.0.0
+```
+
+Onerilen kisa release notu:
+
+```text
+Ilk public surum. Jetpack Compose tabanli todo yonetimi, odak modu, tekrar kurallari, temel istatistikler, widget destegi ve Firebase tabanli giris/senkronizasyon altyapisi icerir.
+```
+
 ## Yol Haritasi
 
 Projede ek planlar ve fikirler de bulunuyor:
@@ -91,4 +120,4 @@ Projede ek planlar ve fikirler de bulunuyor:
 
 ## Lisans
 
-Bu repo icin henuz bir lisans dosyasi eklenmedi. GitHub'a acik olarak yuklemeden once uygun bir lisans secmeniz onerilir.
+Bu proje [MIT License](LICENSE) ile lisanslanmistir.
