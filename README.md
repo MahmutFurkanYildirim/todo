@@ -111,13 +111,6 @@ Onerilen kisa release notu:
 Ilk public surum. Jetpack Compose tabanli todo yonetimi, odak modu, tekrar kurallari, temel istatistikler, widget destegi ve Firebase tabanli giris/senkronizasyon altyapisi icerir.
 ```
 
-## Yol Haritasi
-
-Projede ek planlar ve fikirler de bulunuyor:
-
-- `GELECEK_PLAN.md`
-- `FUTURE_TODO_ROADMAP.md`
-
 ## Lisans
 
 Bu proje [MIT License](LICENSE) ile lisanslanmistir.
