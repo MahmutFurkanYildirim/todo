@@ -2,12 +2,6 @@
 
 Modern bir Jetpack Compose todo uygulamasi. Uygulama; gorev yonetimi, tekrar kurallari, odak modu, basit istatistikler, Firebase tabanli kimlik dogrulama ve senkronizasyon, ayrica widget destegini tek bir Android projesinde birlestirir.
 
-## Ekran Goruntuleri
-
-| Todo Listesi | Gorev Ekle |
-| --- | --- |
-| ![Todo list](screenshots/todo-list.png) | ![Add task](screenshots/add-task.png) |
-
 ## Ozellikler
 
 - Jetpack Compose ile olusturulmus modern, Material 3 tabanli arayuz
